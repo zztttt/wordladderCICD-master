@@ -1,0 +1,18 @@
+2018-04-27 14:02:00,397 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 7388 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-27 14:02:00,401 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 14:02:00,402 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 14:02:02,210 INFO (StartupInfoLogger.java:59)- Started WordladderWebApplication in 2.013 seconds (JVM running for 2.961)
+2018-04-27 14:04:01,211 DEBUG (wordladderController.java:48)- wordladder run:A ladder from bog back to bee: bog beg bee 
+2018-04-27 14:04:05,111 DEBUG (wordladderController.java:48)- wordladder run:A ladder from bag back to bee: bag beg bee 
+2018-04-27 15:06:10,324 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 19292 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-27 15:06:10,326 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 15:06:10,327 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 15:06:53,956 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 21104 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-27 15:06:53,958 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 15:06:53,959 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 15:06:55,504 INFO (StartupInfoLogger.java:59)- Started WordladderWebApplication in 1.74 seconds (JVM running for 2.578)
+2018-04-27 15:07:07,074 DEBUG (wordladderController.java:48)- wordladder run:A ladder from bag back to bee: bag beg bee 
+2018-04-27 15:08:54,401 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 4464 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-27 15:08:54,404 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 15:08:54,405 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 15:08:55,869 INFO (StartupInfoLogger.java:59)- Started WordladderWebApplication in 1.661 seconds (JVM running for 2.391)

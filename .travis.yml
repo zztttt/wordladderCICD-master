@@ -1,0 +1,12 @@
+language: java
+
+jdk:
+  - oraclejdk8
+sudo: true
+before_install:
+  - chmod +x mvnw
+
+deploy:
+  provider: heroku
+  api_key: 2f32e7b5-c779-4d30-9d56-7a18c1865dd4
+  app: desolate-ravine-33082

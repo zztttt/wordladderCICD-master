@@ -1,0 +1,14 @@
+2018-04-26 21:09:15,594 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 16752 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-26 21:09:15,598 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-26 21:09:15,600 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-26 21:09:18,069 INFO (StartupInfoLogger.java:59)- Started WordladderWebApplication in 2.881 seconds (JVM running for 3.932)
+2018-04-26 21:09:34,532 DEBUG (wordladderController.java:48)- wordladder run:A ladder from bog back to bee: bog beg bee 
+2018-04-26 22:58:29,178 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 1944 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-26 22:58:29,196 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-26 22:58:29,197 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-26 22:58:32,022 INFO (StartupInfoLogger.java:59)- Started WordladderWebApplication in 3.425 seconds (JVM running for 4.525)
+2018-04-26 22:58:36,993 DEBUG (wordladderController.java:48)- wordladder run:A ladder from bog back to bee: bog beg bee 
+2018-04-26 23:45:18,644 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 13940 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-26 23:45:18,646 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-26 23:45:18,647 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-26 23:45:20,231 INFO (StartupInfoLogger.java:59)- Started WordladderWebApplication in 1.798 seconds (JVM running for 2.533)

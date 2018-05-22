@@ -1,0 +1,16 @@
+2018-04-09 10:19:52,492 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 1700 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-09 10:19:52,502 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-09 10:19:52,503 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-09 10:19:57,161 INFO (StartupInfoLogger.java:59)- Started WordladderWebApplication in 6.364 seconds (JVM running for 9.425)
+2018-04-09 10:20:25,118 DEBUG (wordladderController.java:48)- wordladder run:A ladder from bog back to bee: bog beg bee 
+2018-04-09 10:21:12,913 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 14196 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-09 10:21:12,916 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-09 10:21:12,917 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-09 10:21:29,803 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 2800 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-09 10:21:29,805 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-09 10:21:29,806 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-09 10:21:31,288 INFO (StartupInfoLogger.java:59)- Started WordladderWebApplication in 1.68 seconds (JVM running for 2.568)
+2018-04-09 10:30:08,433 INFO (StartupInfoLogger.java:50)- Starting WordladderWebApplication on DESKTOP-2EMEOJL with PID 5028 (E:\Eclipse\workspace\wordladderWEB\target\classes started by FJJ in E:\Eclipse\workspace\wordladderWEB)
+2018-04-09 10:30:08,435 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-09 10:30:08,437 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-09 10:30:09,977 INFO (StartupInfoLogger.java:59)- Started WordladderWebApplication in 1.805 seconds (JVM running for 2.732)
